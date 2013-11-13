@@ -1,0 +1,40 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="PhoneApp1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+       
+        <ScrollViewer>
+        <StackPanel>
+                <Button Content="make a phone call" Click="Button_Click"/>
+                <Button Content="sms compose" Click="Button_Click_1"/>
+                <Button Content="web browser" Click="Button_Click_2"/>
+                <Button Content="compose an email" Click="Button_Click_3"/>
+                <Button Content="search" Click="Button_Click_4"/>
+                <Button Content="save contact" Click="Button_Click_5"/>
+                <Button Content="save email" Click="Button_Click_6"/>
+                <Button Content="save number" Click="Button_Click_7"/>
+                <Button Content="photo chooser" Click="Button_Click_8"/>
+                <Image Name="picture" />
+                <Button Content="camera capture" Click="Button_Click_9"/>
+                <Button Content="contact chooser" Click="Button_Click_10" />
+                
+            <Button Content="email chooser" Click="Button_Click_11" />
+                <Button Content="combine" Click="Button_Click_12" />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+ 
+</phone:PhoneApplicationPage>

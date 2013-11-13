@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memes", "1 - Meme App\Memes.csproj", "{D72811DF-E923-4E72-9023-3C50372D1D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "2 - XAML introduction\Calculator.csproj", "{6F695587-6AC6-4E11-AA38-C894E9CEA36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launchers and Choosers", "4 - Launchers and Choosers\Launchers and Choosers.csproj", "{21E7DDAB-0F75-4089-A4BD-38A2AC0CFD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72811DF-E923-4E72-9023-3C50372D1D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72811DF-E923-4E72-9023-3C50372D1D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72811DF-E923-4E72-9023-3C50372D1D52}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D72811DF-E923-4E72-9023-3C50372D1D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72811DF-E923-4E72-9023-3C50372D1D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72811DF-E923-4E72-9023-3C50372D1D52}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6F695587-6AC6-4E11-AA38-C894E9CEA36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F695587-6AC6-4E11-AA38-C894E9CEA36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F695587-6AC6-4E11-AA38-C894E9CEA36A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F695587-6AC6-4E11-AA38-C894E9CEA36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F695587-6AC6-4E11-AA38-C894E9CEA36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F695587-6AC6-4E11-AA38-C894E9CEA36A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{21E7DDAB-0F75-4089-A4BD-38A2AC0CFD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E7DDAB-0F75-4089-A4BD-38A2AC0CFD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E7DDAB-0F75-4089-A4BD-38A2AC0CFD88}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{21E7DDAB-0F75-4089-A4BD-38A2AC0CFD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E7DDAB-0F75-4089-A4BD-38A2AC0CFD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E7DDAB-0F75-4089-A4BD-38A2AC0CFD88}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
