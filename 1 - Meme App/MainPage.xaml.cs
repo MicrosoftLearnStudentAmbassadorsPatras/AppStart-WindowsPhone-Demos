@@ -11,7 +11,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 
-namespace PhoneApp1
+namespace Memes
 {
     public partial class MainPage : PhoneApplicationPage
     {

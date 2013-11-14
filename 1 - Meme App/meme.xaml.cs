@@ -9,7 +9,7 @@ using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 using System.Windows.Media.Imaging;
 
-namespace PhoneApp1
+namespace Memes
 {
     public partial class meme : PhoneApplicationPage
     {

@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 
 
 
-namespace PhoneApp1
+namespace Launcers_Choosers
 {
     public partial class MainPage : PhoneApplicationPage
     {

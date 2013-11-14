@@ -13,7 +13,7 @@ using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 
-namespace PhoneApp1
+namespace Launcers_Choosers
 {
     public partial class App : Application
     {
